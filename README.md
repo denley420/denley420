@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Jake Denley // @denley420
-- 👀 I’m interested in making smart contracts
-- 🌱 I’m currently learning solidity
+- 👋 Hi, I’m Jake Denley
+- 👀 I'm a full-stack developer specializing in building (and occasionally designing) exceptional digital experiences.
+- 🌱 Currently, I'm focused on Ethereum Blockchain to build and deploy smart contracts on ethereum based applications.
+- ✨ Aside from being a Full Stack Developer, I buy and sell cars, I love traveling around, and I enjoy playing games like Mobile Legends, Valorant, and Dota2 whenever I have free time.
+- 📫 Email => denley420@gmail.com
 - 📫 Discord => Jake Denley | KushType#1680
-
-<!---
-denley420/denley420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
